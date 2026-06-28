@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="UTF-8"><title>暖心屿订阅</title></head>
+<head>
+    <meta charset="UTF-8">
+    <title>暖心屿订阅</title>
+</head>
 <body>
     <h2>订阅成功！</h2>
     <p id="msg">正在发送确认通知...</p>
