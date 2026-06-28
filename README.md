@@ -8,7 +8,7 @@
     <h2>订阅成功！</h2>
     <p id="msg">正在发送确认通知...</p>
     <script>
-        const openid = "你自己的OpenID";
+        const openid = "oDd_X237eKMVQWwyZmqFQ7keVdB8";
         fetch("https://syunqggfglfbecwavjpl.supabase.co/functions/v1/send-wechat-template", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
